@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Soma Das 👋
-### AI & Data Science Engineer | Building products that use data and AI to make work faster, smarter, and more dependable
+### AI & Data Science Engineer | Building products to make work faster, smarter, and more dependable
 
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/mail2somadas)
 [![Email](https://shields.io)](mailto:mail2SomaDas@gmail.com)
