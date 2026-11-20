@@ -4,7 +4,6 @@
 ### AI & Data Science Engineer | Building Proactive, Reliable Intelligent Systems
 
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/mail2somadas)
-[![Mastodon](https://shields.io)](https://mastodon.social)
 [![Email](https://shields.io)](mailto:mail2SomaDas@gmail.com)
 
 </div>
