@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-I'm an **AI and Data Science Engineer** with **10+ years of experience** across big tech, banking, insurance, and financial services. I specialize in building systems that catch problems before they happen—from large-scale experimentation at **Apple** to architecting an agentic chatbot at **National Life Group**.
+I'm an **AI and Data Science Engineer** with **10+ years of experience** across big tech, banking, insurance, and financial services. I specialize in extracting insights and building data products with AI—from large-scale experimentation at **Apple** to architecting an agentic chatbot at **National Life Group**.
 
 * 🎓 **Currently:** Completing an **MS in Artificial Intelligence**
 * 💬 **Ask me about:** Agentic AI, scalable data platforms, causal inference, and experimentation
